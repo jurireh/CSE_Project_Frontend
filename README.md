@@ -1,6 +1,6 @@
 # CSE_Project
-This Project was made for a Mobile Device Programming Class.<br/>
-We build an app where you can search vegetarian or vegan restaurants based on a map. 
+This Project was made for a Mobile Device Programming Class at Marmara University Istanbul.<br/>
+We developed an app that allows you to search for vegetarian and vegan restaurants using a map.
 
 
 
