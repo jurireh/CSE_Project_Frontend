@@ -1,6 +1,6 @@
 # CSE_Project
 This Project was made for a Mobile Device Programming Class.<br/>
-We build an app, that is already in the App Store and is called HappyCow. You can search vegetarian or vegan restaurants based on a map. 
+We build an app where you can search vegetarian or vegan restaurants based on a map. 
 
 
 
